@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2254bf"],{e493:function(t,e,i){"use strict";i.r(e),i.d(e,"crudOptions",(function(){return n}));var n={options:{height:"100%"},columns:[{title:"ID",key:"id",width:90,form:{disabled:!0}},{title:"字段类型",key:"date",align:"left",type:"time2",search:{}}]}}}]);

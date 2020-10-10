@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c22e5"],{"48e0":function(t,o,p){"use strict";p.r(o),o["default"]={router:{path:"product/products",name:"productProducts",meta:{title:"管理",auth:!0},component:_import("product/products/page")},menu:{path:"/product/products",title:"管理"}}}}]);
